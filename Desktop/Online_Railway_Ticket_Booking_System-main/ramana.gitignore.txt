@@ -1,0 +1,19 @@
+# Ignore unnecessary files
+*.csv
+*.ipynb
+*.log
+*.bak
+
+# Ignore system directories
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
